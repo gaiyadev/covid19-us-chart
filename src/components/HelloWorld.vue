@@ -124,12 +124,12 @@ export default {
   data() {
     return {
       arrPositive: [],
-      // positiveChartColors: {
-      //   borderColor: "#ff0000",
-      //   pointBackgroundColor: "#004d99",
-      //   backgroudColor: "#74A57F",
-      //   pointBorderColor: "#33cccc"
-      // },
+      positiveChartColors: {
+        borderColor: "#ff0000"
+        // pointBackgroundColor: "#004d99",
+        // backgroudColor: "#74A57F",
+        // pointBorderColor: "#33cccc"
+      },
       arrHospitalized: [],
       arrIncu: [],
       arrOnVentilators: [],
