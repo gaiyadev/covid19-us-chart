@@ -31,7 +31,7 @@ export default {
         datasets: [
           {
             label: this.label,
-            data: totals,
+            data: totals
             // borderColor: borderColor,
             // pointBorderColor: pointBorderColor,
             // pointBackgroundColor: pointBackgroundColor,
