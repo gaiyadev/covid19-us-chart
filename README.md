@@ -1,24 +1,14 @@
 # covid19
+Is a simple graphical representation of Corona pandemic in USA
 
-## Project setup
-```
-yarn install
-```
+## Installation
+Clonw the Repo and run npm install, to install all dependencies.
 
-### Compiles and hot-reloads for development
 ```
-yarn serve
+yarn install or npm install 
 ```
 
-### Compiles and minifies for production
-```
-yarn build
-```
+### Technology
++ Vuejs
++ Chartjs
 
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
